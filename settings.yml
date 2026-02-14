@@ -2,8 +2,18 @@ foundation: European Industry
 url: http://localhost:8000
 description: Open-source European industry landscape built with CNCF landscape2.
 grid_items_size: small
+colors:
+  color1: "rgba(5, 5, 34, 1)"
+  color2: "rgba(4, 4, 170, 1)"
+  color3: "rgba(96, 149, 214, 1)"
+  color4: "rgba(0, 42, 81, 0.7)"
+  color5: "rgba(5, 5, 34, 1)"
+  color6: "rgba(4, 4, 170, 1)"
+  color7: "rgba(180, 219, 255, 1)"
 footer:
   links:
     github: https://github.com/zeta-solutions-git
     homepage: http://localhost:8000
   text: Copyright © 2026 European Industry.
+header: 
+  logo: https://space-comm-scotland.co.uk/wp-content/uploads/2024/03/logo-groundstation-dotspace-300x141.png
