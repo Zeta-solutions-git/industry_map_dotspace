@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="256" height="256"
+     viewBox="0 0 256 256">
+  <image x="0" y="0" width="256" height="256"
+         preserveAspectRatio="xMidYMid meet"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEX/54X/zw3/zAD//fT/5oP/zgv//////fb/5oT/zgz/54b/5oX/5oL//fX/5oH/zgr/5oD//fNvveLXAAAAjklEQVQ4y33R0RbCIAwD0KprOqZl8/9/1geO24A2PN+TBBB5POmR16IcwEQ5gK3KAWwtHMA25YC1NACTwkF+lz9IW04A2woHScYNxO9xB+HSDsDmn+tB0DKAeekIppYJwN7KwZARgF5EoFsaAthHOYCfLQm4MjIAr8oBvGXkAF53DloLA/C6cwA/Cgf4Hj9qABFQeSUGCQAAAABJRU5ErkJggg==" />
+</svg>
