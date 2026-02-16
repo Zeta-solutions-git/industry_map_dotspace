@@ -16,4 +16,9 @@ footer:
     homepage: http://localhost:8000
   text: Copyright © 2026 European Industry.
 header: 
+  links: {}
   logo: https://raw.githubusercontent.com/Zeta-solutions-git/industry_map_dotspace/refs/heads/master/logos/logo-groundstation-colored.png
+view_mode: "card"
+export:
+  pdf_url: /downloads/european-industry-landscape.pdf
+  embed: false
