@@ -1,9 +1,0 @@
-foundation: European Industry
-url: http://localhost:8000
-description: Open-source European industry landscape built with CNCF landscape2.
-grid_items_size: small
-footer:
-  links:
-    github: https://github.com/zeta-solutions-git
-    homepage: http://localhost:8000
-  text: Copyright © 2026 European Industry.
